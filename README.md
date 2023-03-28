@@ -30,7 +30,7 @@ name: "Microsoft Azure Blockchain Workbench Samples"
 >
 >
 
-This repository contains content and samples in number of areas, including:
+Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 
 * [Applications and smart contracts for Azure Blockchain Workbench](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
 * [Auth Samples](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/auth-samples)
