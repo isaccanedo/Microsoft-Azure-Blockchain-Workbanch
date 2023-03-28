@@ -23,7 +23,7 @@ name: "Microsoft Azure Blockchain Workbench Samples"
 
 
 
-> **Important Notice**
+> **Notícia importante**
 >
 > **The Azure Blockchain Development Kit has been moved to its own [repository](https://github.com/azure-samples/blockchain-devkit)
 > We are not accepting pull-requests for the development kit on this repository anymore.**
