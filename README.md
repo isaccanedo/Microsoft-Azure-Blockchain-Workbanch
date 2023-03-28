@@ -1,6 +1,6 @@
 ---
 page_type: sample
-languages:
+languagens:
   - csharp
   - java
   - nodejs
