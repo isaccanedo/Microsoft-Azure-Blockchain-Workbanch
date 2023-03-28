@@ -32,7 +32,7 @@ name: "Microsoft Azure Blockchain Workbench Samples"
 
 Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 
-* [Applications and smart contracts for Azure Blockchain Workbench](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
+* [Aplicativos e contratos inteligentes para Azure Blockchain Workbench](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
 * [Auth Samples](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/auth-samples)
 * [REST API](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples/readme.md) (including the swagger file and clients for .NET, Java, and Python)
 * [Messaging Integration](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/messaging-integration-samples/readme.md)
