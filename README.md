@@ -43,7 +43,7 @@ Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 * [Deployment and Management Scripts and Upgrade Scripts](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/scripts/readme.md)
 * [Frequently Asked Questions](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/faq/readme.md)
 
-To learn more about Azure Blockchain Workbench, please visit our [product page](https://aka.ms/workbenchdocs) and [documentation](http://azure.microsoft.com/en-us/features/blockchain-workbench/).
+Para saber mais sobre o Azure Blockchain Workbench, visite nosso [product page](https://aka.ms/workbenchdocs) and [documentation](http://azure.microsoft.com/en-us/features/blockchain-workbench/).
 
 ## How to provide feedback
 
