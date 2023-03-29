@@ -38,7 +38,7 @@ Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 * [Integração de mensagens](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/messaging-integration-samples/readme.md)
 * [IoT Integration](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/iot-integration-samples/readme.md)
 * [Integração do Office](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/office-integration-samples/readme.md)
-* [Technology Samples](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/technology-samples/readme.md)
+* [Amostras de tecnologia](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/technology-samples/readme.md)
 * [Data and Reporting](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/data-reporting-samples/readme.md) (including CosmosDB, SQL DB, Excel, and PowerBI)
 * [Deployment and Management Scripts and Upgrade Scripts](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/scripts/readme.md)
 * [Frequently Asked Questions](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/faq/readme.md)
