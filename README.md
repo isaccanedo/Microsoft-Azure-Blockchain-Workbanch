@@ -45,7 +45,7 @@ Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 
 Para saber mais sobre o Azure Blockchain Workbench, visite nosso [product page](https://aka.ms/workbenchdocs) and [documentation](http://azure.microsoft.com/en-us/features/blockchain-workbench/).
 
-## How to provide feedback
+## Como fornecer comentários
 
 To provide feedback on these samples, please see our [Contribution Guidelines](https://github.com/Azure-Samples/blockchain/tree/master/CONTRIBUTING.md).
 
