@@ -35,7 +35,7 @@ Este repositório contém conteúdo e amostras em várias áreas, incluindo:
 * [Aplicativos e contratos inteligentes para Azure Blockchain Workbench](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/application-and-smart-contract-samples/readme.md)
 * [Amostras de autenticação](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/auth-samples)
 * [REST API](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/rest-api-samples/readme.md) (including the swagger file and clients for .NET, Java, and Python)
-* [Messaging Integration](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/messaging-integration-samples/readme.md)
+* [Integração de mensagens](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/messaging-integration-samples/readme.md)
 * [IoT Integration](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/iot-integration-samples/readme.md)
 * [Office Integration](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/office-integration-samples/readme.md)
 * [Technology Samples](https://github.com/Azure-Samples/blockchain/tree/master/blockchain-workbench/technology-samples/readme.md)
