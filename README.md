@@ -47,7 +47,7 @@ Para saber mais sobre o Azure Blockchain Workbench, visite nosso [product page](
 
 ## Como fornecer comentários
 
-To provide feedback on these samples, please see our [Contribution Guidelines](https://github.com/Azure-Samples/blockchain/tree/master/CONTRIBUTING.md).
+Para fornecer feedback sobre essas amostras, consulte nosso [Contribution Guidelines](https://github.com/Azure-Samples/blockchain/tree/master/CONTRIBUTING.md).
 
 For general product feedback, please visit our [forum](https://techcommunity.microsoft.com/t5/Blockchain/bd-p/AzureBlockchain).
 
