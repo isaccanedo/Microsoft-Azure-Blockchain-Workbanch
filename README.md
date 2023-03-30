@@ -7,7 +7,7 @@ linguagens:
   - python
   - rest
   - solidity
-products:
+produtos:
   - dotnet
   - azure
   - azure-blockchain-workbench
