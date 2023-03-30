@@ -51,4 +51,4 @@ Para fornecer feedback sobre essas amostras, consulte nosso [Contribution Guidel
 
 For general product feedback, please visit our [forum](https://techcommunity.microsoft.com/t5/Blockchain/bd-p/AzureBlockchain).
 
-To request additional features or samples, visit our [UserVoice site](https://feedback.azure.com/forums/586780-blockchain).
+Para solicitar recursos ou amostras adicionais, visite nosso [site UserVoice](https://feedback.azure.com/forums/586780-blockchain).
