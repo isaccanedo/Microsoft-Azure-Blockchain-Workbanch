@@ -14,7 +14,7 @@ produtos:
   - azure-blockchain-service
 descrição: "This repository contains content and samples for the Azure Blockchain Workbench."
 urlFragment: blockchain-samples
-name: "Microsoft Azure Blockchain Workbench Samples"
+nome: "Microsoft Azure Blockchain Workbench Samples"
 ---
 
 # ![Microsoft Azure Blockchain Workbench](https://raw.githubusercontent.com/Azure-Samples/blockchain/master/blockchain-workbench/media/logo_small.png) Microsoft Azure Blockchain Workbench
